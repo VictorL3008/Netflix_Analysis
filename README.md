@@ -1,6 +1,5 @@
 # SQL.POWERBI2
 
-Netflix: 
+Netflix:
 
- Este proyecto tendrá toda su documentación y los pasos logrados en un archivo pdf,donde se puede comunicar efectivamente lo logrado.
- (descargar archivo pbix para ver el dashboard)
+This project will have all its documentation and achieved steps in a PDF file, where the accomplishments can be effectively communicated. (Download the .pbix file to view the dashboard).
